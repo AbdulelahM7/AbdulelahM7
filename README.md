@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=E7TRAF702&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AbdulelahM7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=E7TRAF702&theme=dark&hide_border=false)
 
